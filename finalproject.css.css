@@ -1,0 +1,77 @@
+<html>
+   <head>
+	<style>
+
+		html, body, header, foooter, main, nav, article, section, figure, figcaption, h1, h2, h3, ul, li, body, div, p, img{
+		margin: auto;
+		padding: 0;
+		font-size: 100%;
+		vertical-align: baseline;
+		border: 0;
+		}
+		
+		header{
+		color: white;
+		background-color: blue;
+		height: 110px;
+		margin: 0em 4em 0.25em 4em;
+		font-family: monospace;
+		}
+		
+
+		h1{
+		margin: 0em 0em 0em 1.6em;
+		}
+		
+		nav
+		{
+		clear: both;
+		height: 50px;
+		background-color: blue;
+		font-family: monospace;
+		}
+
+		ul
+		{
+		clear: left;
+		list-style: none;
+		color: none;
+		background-color: blue;
+		margin: 0em 0em 0em 0em;
+		font: monospace;
+		float: left;
+		}
+
+		li
+		{
+		color: white;
+		background-color: blue;
+		padding: 10px;
+		font: monospace;
+		float: left;
+		}
+	
+		div{
+		color: white;
+		background-color: teal;
+		height: 500px;
+		margin: 0em 20em 0.25em 20em;
+		font-family: monospace;
+		}
+
+		footer{
+		clear: both;
+		color: white;
+		background-color: orange;
+		height: 55px;
+		margin: 0em 4em 0.25em 4em;
+		font-family: monospace;
+		}
+	
+	</style>
+    </head>
+    <body>
+    </body>
+    <footer>
+    </footer>
+</html>
