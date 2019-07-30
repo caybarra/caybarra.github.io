@@ -1,0 +1,96 @@
+		html, body, header, foooter, nav, article, section, figure, figcaption, h1, h2, h3, ul, li, body, div, p, img, wrapper, content{
+		margin: auto;
+		padding: 0;
+		font-size: 100%;
+		vertical-align: baseline;
+		border: 0;
+		}
+				
+		a:hover{
+		text-decoration: none;	
+		color: aqua;
+		}
+
+		.wrapper{
+		width: 1000px;
+		}
+
+		.home{
+		color: white;
+		background-color: gray;
+		height: 500px;
+		font-family: monoscript;
+		}
+
+		body{
+		color: pink;
+		background-color: gray;
+		}
+
+		header{
+		color: maroon;
+		background-color: gray;
+		height: 110px;
+		font-family: monoscript;
+		}
+		
+		.content{
+		color: white;
+		background-color: gray;
+		height: 750px;
+		font-family: monoscript;
+		}
+	
+		h1{
+		font-size: 50px;
+		font-family: monoscript;
+		}
+
+		h3{
+		margin: 10px 0px 20px 0px;
+		}
+
+		nav{
+		clear: both;
+		height: 50px;
+		background-color: gray;
+		font-family: monoscript;
+		}
+
+		ul{
+		clear: left;
+		list-style: none;
+		color: maroon;
+		background-color: gray;
+		font: monoscript;
+		float: left;
+		}
+
+		li{
+		color: maroon;
+		background-color: gray;
+		padding: 10px;
+		font: monoscript;
+		float: left;
+		}
+	
+		.form{
+		margin-top: 20px;
+		}
+
+		.images{
+		clear:left;
+		height: 750px;
+		float: left;
+		}
+
+		footer{
+		clear: both;
+		color: maroon;
+		background-color: gray;
+		height: 55px;
+		font-family: monoscript;
+		}
+	
+	
+	
